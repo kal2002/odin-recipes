@@ -1,2 +1,2 @@
 Hi there
-I'm currently working on buliding a recipies website.
+I'm currently working on buliding a recipies website on just HTML.
